@@ -1,3 +1,3 @@
-##Esta es mi primer aplicacion usando React Js 
-
 ## App de Recetas
+
+Esta aplicación web fue creada con la única intención de aprender React
